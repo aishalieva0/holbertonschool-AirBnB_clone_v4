@@ -19,6 +19,7 @@ header #api_status {
     margin-right: 30px;
     position: absolute;
     right: 0;
+    transform: translateY(-130%);
 }
 
 #api_status.available {
